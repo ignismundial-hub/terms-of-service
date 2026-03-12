@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 
 <h2>Termos de Serviço</h2>
